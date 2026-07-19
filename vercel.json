@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "src": "/loader",
+      "dest": "/protected.html"
+    },
+    {
+      "src": "/loader.lua",
+      "dest": "/loader.lua",
+      "headers": {
+        "Content-Type": "text/plain"
+      }
+    }
+  ]
+}
