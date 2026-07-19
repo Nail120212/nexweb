@@ -1,5 +1,4 @@
 -- [[ Obfuscate using Nexfuscator v1.1 ]] --
--- son do not modify ts😭
 -- https://dsc.gg/nexxto
 
 local _gdeGCSGsteamVTQRfBfZVfuqbMcgAGU = "NexFuscator/v4/170/20509-F0D2"
