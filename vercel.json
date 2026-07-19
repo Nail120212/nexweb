@@ -5,8 +5,8 @@
       "dest": "/protected.html"
     },
     {
-      "src": "/loader.lua",
-      "dest": "/loader.lua",
+      "src": "/loader.html",
+      "dest": "/loader.html",
       "headers": {
         "Content-Type": "text/plain"
       }
