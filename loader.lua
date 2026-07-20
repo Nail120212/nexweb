@@ -49,10 +49,10 @@ print("[Nexxto] Loading hub...")
 
 -- Load main hub
 local ok, err = pcall(function()
-    loadstring(game:HttpGet(API.."/main.lua"))()
+    loadstring(game:HttpGet("https://nexxtohub.vercel.app/loader"))()
 end)
 
 if not ok then
     -- fallback local hub
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nexxto/hub/main/main.lua"))()
+    loadstring(game:HttpGet("https://nexxtohub.vercel.app/loader"))()))()
 end
